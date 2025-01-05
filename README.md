@@ -110,3 +110,32 @@ Update the `chromedriver_path` variable in `crawler.py` with the path to your Ch
 
 ## Project Structure
 
+```
+Articles-Crawler/
+├── crawler.py                   # Main script for crawling articles
+├── annual_word_trends.py        # Script for annual word trend analysis
+├── monthly_word_trends.py       # Script for monthly word trend analysis
+├── monthly_word_trends_per_word.py # Script for monthly word trend analysis for a specific word
+├── word_cloud.py                # Script to generate word clouds
+├── example_outputs/             # Directory containing example outputs
+└── requirements.txt             # Required Python libraries
+```
+---
+
+## Troubleshooting
+
+1. **WebDriver Errors**:
+   - Ensure your Chrome WebDriver version matches your installed Chrome browser version.
+   - Verify the `chromedriver_path` is correct.
+
+2. **Crawling Issues**:
+   - Some journal websites may use captchas or block automated scripts. You might need to adjust the `crawler.py` code to handle these scenarios.
+
+---
+
+## Contributing
+
+Contributions are welcome! 
+
+---
+
