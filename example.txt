@@ -1,0 +1,987 @@
+January 2022 Editorial Board
+January 2022 Effective properties of an isotropic solid weakened by micro-cracks located at inter-granular boundaries
+January 2022 Nonlinear poroviscoelastic behavior of gelatin-based hydrogel
+January 2022 A universal mechanical framework for noncovalent interface in laminated nanocomposites
+January 2022 Velocity-driven frictional sliding: Coarsening and steady-state pulses
+January 2022 How does a glass fabric tear under cyclic force?
+January 2022 Solutions to the generalized Eshelby conjecture for anisotropic media: Proofs of the weak version and counter-examples to the high-order and the strong versions
+January 2022 Mechanistic fatigue in Ni-based superalloy single crystals: A study of crack paths and growth rates
+January 2022 Mean field fracture in disordered solids: Statistics of fluctuations
+January 2022 Polyacrylamide hydrogels. IV. Near-perfect elasticity and rate-dependent toughness
+January 2022 Multiscale modeling of chemo-thermo-mechanical damage of EB-PVD thermal barrier coatings
+January 2022 A way to hypo-elastic artificial materials without a strain potential and displaying flutter instability
+January 2022 Statistical mechanics of a dielectric polymer chain in the force ensemble
+January 2022 Representative volume elements for matrix-inclusion composites - a computational study on the effects of an improper treatment of particles intersecting the boundary and the benefits of periodizing the ensemble
+January 2022 A thermodynamic framework for unified continuum models for the healing of damaged soft biological tissue
+January 2022 Finite deformation near a crack tip terminated at an interface between two neo-Hookean sheets
+January 2022 Experimental molecular dynamics for individual atomic-scale plastic events in nanoscale crystals
+January 2022 Emergence of viscosity and dissipation via stochastic bonds
+January 2022 Predicting plastic events and quantifying the local yield surface in 3D model glasses
+January 2022 A learning-based multiscale method and its application to inelastic impact problems
+January 2022 On the effective surface energy in viscoelastic Hertzian contacts
+January 2022 Topology optimization of hard-magnetic soft materials
+January 2022 A cyclic plastic-damage multiphase model for evaluation of multiple cracking in strain hardening cementitious composites
+January 2022 A compliant and low-expansion 2-phase micro-architectured material, with potential application to solid-state Li-ion batteries
+January 2022 Cyclic response of 3D printed metamaterials with soft cellular architecture: The interplay between as-built defects, material and geometric non-linearity
+January 2022 Peeling and sliding of graphene nanoribbons with periodic van der Waals interactions
+January 2022 Reduced-Order Extended Kalman Filter for Deformable Tissue Simulation
+January 2022 Theory of soft solid electrolytes: Overall properties of composite electrolytes, effect of deformation and microstructural design for enhanced ionic conductivity
+January 2022 On the importance of self-consistency in recurrent neural network models representing elasto-plastic solids
+January 2022 Development of mean-field continuum dislocation kinematics with junction reactions using de Rham currents and graph theory
+January 2022 Corrigendum to “The role of the roughness spectral breadth in elastic contact of rough surfaces” Journal of the Mechanics and Physics of Solids, Volume 107, pages 469-493
+January 2022 Corrigendum to “Vibration of mechanically-assembled 3D microstructures formed by compressive buckling” [Journal of the Mechanics and Physics of Solids 112 (2018) 187–208]
+February 2022 Editorial Board
+February 2022 Phase-field method with additional dissipation force for mixed-mode cohesive fracture
+February 2022 Dynamic Shearing Resistance of an Energetic Material Simulant: Sucrose
+February 2022 A micromechanics-based variational phase-field model for fracture in geomaterials with brittle-tensile and compressive-ductile behavior
+February 2022 The role of interfacial friction on the peeling of thin viscoelastic tapes
+February 2022 A data-driven approach to predicting the anisotropic mechanical behaviour of voided single crystals
+February 2022 Generating complex fold patterns through stress-free deformation induced by growth
+February 2022 Thermodynamics of strain-induced crystallization in filled natural rubber under uni- and biaxial loadings, Part I: Complete energetic characterization and crystallinity evaluation
+February 2022 Nonlinear inclusion theory with application to the growth and morphogenesis of a confined body
+February 2022 Adhesion of beams with subsurface elastic heterogeneity
+February 2022 Polyconvex anisotropic hyperelasticity with neural networks
+February 2022 Extended deformable tension-shear model for graphene layered materials with non-uniform staggering
+February 2022 Thermodynamics of strain-induced crystallization in filled natural rubber under uni- and biaxial loadings, Part II: Physically-based constitutive theory
+February 2022 Three-dimensional crack bridging model of biological materials with twisted Bouligand structures
+February 2022 A rigorous universal model for the dynamic strength of materials across loading rates
+February 2022 Mechanics of controlled fragmentation by cold drawing
+February 2022 Phase-field modeling and peridynamics for defect dynamics, and an augmented phase-field model with viscous stresses
+February 2022 Dual-scale porosity effects on crack growth in additively manufactured metals: 3D ductile fracture models
+February 2022 Stiffness and toughness of soft, liquid reinforced composites
+February 2022 A gradient Eshelby force on twinning partial dislocations and associated detwinning mechanism in gradient nanotwinned metals
+February 2022 Numerical simulations of mixed-mode (I and II) notch tip fields in basal-textured magnesium alloys
+February 2022 Coupled bend–twist mechanics of biomimetic scale substrate
+February 2022 Inelastic behavior of tungsten carbide at high pressures
+February 2022 Phase-field cohesive fracture theory: A unified framework for dissipative systems based on variational inequality of virtual works
+February 2022 Thermodynamic considerations on a class of dislocation-based constitutive models
+February 2022 Diversity of the bifurcations and deformations on films bonded to soft substrates: Robustness of the herringbone pattern and its cognate patterns
+February 2022 Fracture of hierarchical multi-layered bioinspired composites
+February 2022 Establish algebraic data-driven constitutive models for elastic solids with a tensorial sparse symbolic regression method and a hybrid feature selection technique
+February 2022 Steady state crack growth in viscoelastic solids: A comparative study
+February 2022 Nacre's brick–mortar structure suppresses the adverse effect of microstructural randomness
+February 2022 A coupled electro-chemo-mechanical theory for polyelectrolyte gels with application to modeling their chemical stimuli-driven swelling response
+February 2022 Decoupling competing electromechanical mechanisms in dynamic atomic force microscopy
+February 2022 A strain gradient brittle fracture model based on two-scale asymptotic analysis
+February 2022 A generalized solution to the combo-crack problem—I. Pressure load on crack surface
+February 2022 Mechanics of stretchy elastomer lattices
+February 2022 Mesh objective stochastic simulations of quasibrittle fracture
+February 2022 Shaping the stress field in cell monolayers via intercellular water flows
+March 2022 Editorial Board
+March 2022 Modeling the dynamic magneto-mechanical response of magnetic shape memory alloys based on Hamilton’s principle: The governing equation system
+March 2022 Three-dimensional fluid-driven stable frictional ruptures
+March 2022 Kinked and forked crack arrays in anisotropic elastic bimaterials
+March 2022 Exploiting interface patterning for adhesion control
+March 2022 A Kirchhoff-like theory for hard magnetic rods under geometrically nonlinear deformation in three dimensions
+March 2022 Twin boundary fatigue crack nucleation in a polycrystalline Nickel superalloy containing non-metallic inclusions
+March 2022 Delamination of a sandwich layer by diffusion of a corrosive species: Initiation of growth
+March 2022 Hygro-coupled viscoelastic viscoplastic material model of paper
+March 2022 Mechanics of transient semi-flexible networks: Soft-elasticity, stress relaxation and remodeling
+March 2022 Particle size effects in ductile composites: An FFT homogenization study
+March 2022 Predictive strain-gradient homogenization of a pantographic material with compliant junctions
+March 2022 Nucleation of creases and folds in hyperelastic solids is not a local bifurcation
+March 2022 Crack-front model for adhesion of soft elastic spheres with chemical heterogeneity
+March 2022 Cohesive element simulations capture size and confining stress dependence of rock fracture toughness obtained from burst experiments
+March 2022 Dislocation pile-up polarization model for mechanical properties of polycrystalline metals based on grain boundary resistance variability
+March 2022 A variational full-network framework with anisotropic damage and viscoelasticity induced by deformation
+March 2022 A unified morphoelastic rod model with application to growth-induced coiling, waving, and skewing of plant roots
+March 2022 Errata: Surface instabilities of constrained elastomeric layers subject to electro-static stressing by J. W. Hutchinson, J. Mech. Phys. Solids 153 (2021) 104,462.
+March 2022 A kinetic model of a polyelectrolyte gel undergoing phase separation
+March 2022 Morpho-elasticity of human pluripotent stem cell cysts
+March 2022 Orientation-dependent superelasticity and fatigue of CuAlMn alloy under in situ micromechanical tensile characterization
+March 2022 Grain-boundary fracture mechanisms in Li
+La
+Zr
+O12 (LLZO) solid electrolytes: When phase transformation acts as a temperature-dependent toughening mechanism
+March 2022 Fractal geometry of contacting patches in rough elastic contacts
+April 2022 Editorial Board
+April 2022 How hidden 3D structure within crack fronts reveals energy balance
+April 2022 A robust method for quantification of surface elasticity in soft solids
+April 2022 Predicting the unobserved: A statistical mechanics framework for non-equilibrium material response with quantified uncertainty
+April 2022 Substrate elasticity and surface tension mediate the spontaneous rotation of active chiral droplet on soft substrates
+April 2022 Scaling for the inverse thickness dependence of specific penetration energy in polymer thin film impact tests
+April 2022 Cylindrical compressible liquid inclusion with surface effects
+April 2022 Large-deformation constitutive modeling of viscoelastic foams: Application to a closed-cell foam material
+April 2022 Microscale residual stresses in additively manufactured stainless steel: Computational simulation
+April 2022 A transversely isotropic thermo-hyperelastic constitutive model of myocardial tissue with a three-state cell death dynamics for cardiac radiofrequency ablation
+April 2022 An action for nonlinear dislocation dynamics
+April 2022 On local kirigami mechanics II: Stretchable creased solutions
+April 2022 Revealing the size effect mechanism of reversible grain boundary migration in nanocrystalline coppers: Molecular dynamics simulations and a refined disconnection model
+April 2022 A statistical approach of dynamic necking instabilities
+May 2022 Editorial Board
+May 2022 A theory that couples electrochemistry and thin film piezoelectricity with stability analysis for electrodeposition
+May 2022 Dynamic recoil in metamaterials with nonlinear interactions
+May 2022 A data-driven harmonic approach to constructing anisotropic damage models with a minimum number of internal variables
+May 2022 Initiation of surface wrinkling during photopolymerization
+May 2022 Discrete element modelling of normal compression of clay
+May 2022 Damage spreading in quasi-brittle disordered solids: II. What the statistics of precursors teach us about compressive failure
+May 2022 Size effects and plastic deformation mechanisms in single-crystalline CoCrFeNi micro/nanopillars
+June 2022 Editorial Board
+June 2022 Explicit consideration of fiber recruitment in vascular constitutive formulation using beta functions
+June 2022 A nonlinear viscoelasticity theory for nematic liquid crystal elastomers
+June 2022 Harmonic decomposition of the trace of 1D transfer matrices in layered media
+June 2022 Simultaneous extraction of the elastic-plastic properties of a thin film and its substrate from an identifiability-based design of depth-sensing nanoindentation testing
+June 2022 Thermal-fluctuation gradient induced tangential entropic forces in layered two-dimensional materials
+June 2022 A two-surface gradient-extended anisotropic damage model using a second order damage tensor coupled to additive plasticity in the logarithmic strain space
+June 2022 Discrete dislocation dynamics for crystal RVEs. Part 1: Periodic network kinematics
+June 2022 Deformation behavior of fluid-filled porous elastomers: Analytical estimates and validation
+June 2022 Chemo-mechanical modeling of inter- and intra-granular fracture in heterogeneous cathode with polycrystalline particles for lithium-ion battery
+June 2022 Interface mechanics of 2D materials on metal substrates
+June 2022 Tunable phononic bandgap materials designed via topology optimization
+June 2022 Deformation twinning as a displacive transformation: Finite-strain phase-field model of coupled twinning and crystal plasticity
+June 2022 Invariant surface elastic properties in FCC metals and their correlation to bulk properties revealed by machine learning methods
+June 2022 Crystal plasticity including a phase-field deformation twinning model for the high-rate deformation of cyclotetramethylene tetranitramine
+June 2022 Variational Onsager Neural Networks (VONNs): A thermodynamics-based variational learning strategy for non-equilibrium PDEs
+June 2022 Failure of a brittle layer on a ductile substrate: Nanoindentation experiments and FEM simulations
+July 2022 Editorial Board
+July 2022 On Maxwell stress and its relationship with the dielectric constant in the actuation of ionic polymer metal composites
+July 2022 Ductile failure predictions using micromechanically-based computational models
+July 2022 Spider silks mechanics: Predicting humidity and temperature effects
+July 2022 A two-scale thermo-mechanically coupled model for anomalous martensite transformation and elastocaloric switching effect of shape memory alloy
+July 2022 Asymmetric mechanical properties in ferroelectrics driven by flexo-deformation effect
+July 2022 Ductile failure under non-proportional loading
+July 2022 Dynamic fracture of a bicontinuously nanostructured copolymer: A deep-learning analysis of big-data-generating experiment
+July 2022 Chain diffusion based framework for modeling the welding of vitrimers
+July 2022 An asperity-based statistical model for the adhesive friction of elastic nominally flat rough contact interfaces
+July 2022 An elastic rod in frictional contact with a rigid cylinder
+July 2022 A viscous active shell theory of the cell cortex
+July 2022 Merits and limits of a variational definition of the effective toughness of heterogeneous materials
+July 2022 Finite-deformation phase-field microelasticity with application to dislocation core and reaction modeling in fcc crystals
+July 2022 Study of the interplay between lower-order and higher-order energetic strain-gradient effects in polycrystal plasticity
+July 2022 On nonlocal cohesive continuum mechanics and Cohesive Peridynamic Modeling (CPDM) of inelastic fracture
+July 2022 Fluid–fluid phase separation in a soft porous medium
+July 2022 DeepBuckle: Extracting physical behavior directly from empirical observation for a material agnostic approach to analyze and predict buckling
+July 2022 Failure life prediction for carbon nanotubes
+July 2022 A fully coupled chemo-mechanical cohesive zone model for oxygen embrittlement of nickel-based superalloys
+July 2022 Measurement of stress distribution at the nanoscale: Towards stress nanotomography
+July 2022 A generalized solution to the combo-crack problem—II. Remote load
+July 2022 A constitutive model for fibrous tissues with cross-linked collagen fibers including dispersion — With an analysis of the Poynting effect
+July 2022 A rate-dependent phase-field model for dynamic shear band formation in strength-like and toughness-like modes
+July 2022 Pattern transformation induced waisted post-buckling of perforated cylindrical shells
+July 2022 Modeling permanent deformation during low-cycle fatigue: Application to the pelvic floor muscles during labor
+July 2022 Active filaments I: Curvature and torsion generation
+July 2022 Equilibrium-based convolution neural networks for constitutive modeling of hyperelastic materials
+August 2022 Editorial Board
+August 2022 A fourth-order phase-field fracture model: Formulation and numerical solution using a continuous/discontinuous Galerkin method
+August 2022 Disclination-dislocation based model for grain boundary stress field evolution due to slip transmission history and influence on subsequent dislocation transmission
+August 2022 On the micromechanics of void mediated failure in HCP crystals
+August 2022 Measuring Terzaghi’s effective stress by decoding force transmission in fluid-saturated granular media
+August 2022 Membrane stretching based creep damage analytical solutions for thin disc small punch problem
+August 2022 On the micromechanics of voids in nanotwinned materials
+August 2022 Interactions between multiple rigid lamellae in a ductile metal matrix: Shear band magnification and attenuation in localization patterns
+August 2022 Plastic anisotropy and twin distributions near the fatigue crack tip of textured Mg alloys from in situ synchrotron X-ray diffraction measurements and multiscale mechanics modeling
+August 2022 Decoupling indentation size and strain rate effects during nanoindentation: A case study in tungsten
+September 2022 Editorial Board
+September 2022 Polyphase crystal plasticity for high strain rate: Application to twinning and retwinning in tantalum
+September 2022 Manifold embedding data-driven mechanics
+September 2022 Elastomers filled with liquid inclusions: Theory, numerical implementation, and some basic results
+September 2022 A geometrically exact model for thin magneto-elastic shells
+September 2022 Microscopic mechanisms of frictional aging
+September 2022 Finite deformation continuum model for mechanically induced phase transition in transition metal dichalcogenide monolayers
+September 2022 The arrest and recession dynamics of a deflating radial hydraulic fracture in a permeable elastic medium
+September 2022 Strain localization analysis in materials containing randomly distributed voids: Competition between extension and shear failure modes
+September 2022 Simulating concrete failure using the Microplane (M7) constitutive model in correspondence-based peridynamics: Validation for classical fracture tests and extension to discrete fracture
+September 2022 A generalised, multi-phase-field theory for dissolution-driven stress corrosion cracking and hydrogen embrittlement
+September 2022 A phase field crystal theory of the kinematics of dislocation lines
+September 2022 Effective continuum models for the buckling of non-periodic architected sheets that display quasi-mechanism behaviors
+September 2022 On the higher-order pseudo-continuum characterization of discrete kinematic results from experimental measurement or discrete simulation
+October 2022 Editorial Board
+October 2022 Thermodynamic model of twisted bilayer graphene: Entropy matters
+October 2022 Elasto-damage mechanics of osteons: A bottom-up multiscale approach
+October 2022 Singularity-free theory and adaptive finite element computations of arbitrarily-shaped dislocation loop dynamics in 3D heterogeneous material structures
+October 2022 A finite deformation theory for grain boundary plasticity based on geometrically necessary disconnections
+October 2022 A model of porous plastic single crystals based on fractal slip lines distribution
+October 2022 Constitutive modelling of fibre networks with stretch distributions. Part I: Theory and illustration
+October 2022 A mesoscale model for the micromechanical study of gels
+October 2022 Perspective on the Bond Bending and Bond Stretching Effects at the Atomic Scale and Their Relationship to Ductile Versus Brittle Materials Failure
+October 2022 Passive constitutive theory of a single muscle fiber for the potential diagnosis of muscle diseases at the molecular level
+October 2022 Closed tubular mechanical metamaterial as lightweight load-bearing structure and energy absorber
+October 2022 Indentation of elastomeric membranes by sphere-tipped indenters: Snap-through instability, shrinkage, and puncture
+October 2022 Surface accretion of a pre-stretched half-space: Biot’s problem revisited
+October 2022 Stiffening and softening in the power-law rheological behaviors of cells
+October 2022 The theory of continuous distributions of composite defects
+October 2022 Dislocation modelling of the plastic relaxation and thermal ratchetting induced by zirconium hydride precipitation
+October 2022 Multiband homogenization of metamaterials in real-space: Higher-order nonlocal models and scattering at external surfaces
+October 2022 Locally translation-isometric and multi-isometric sets as generalizations of objective structures
+October 2022 Wrapping of a vesicle nanoparticle with variable bending stiffness by membrane
+October 2022 Linear stability analysis of the condition for vibration during frictional slip
+October 2022 A phase field electro-chemo-mechanical formulation for predicting void evolution at the Li–electrolyte interface in all-solid-state batteries
+October 2022 Phase-field finite deformation fracture with an effective energy for regularized crack face contact
+October 2022 Geometry of sliding lamellae dictates the constitutive properties of nacre-like hierarchical materials
+October 2022 Diffusion of deformable nanoparticles in adhesive polymeric gels
+October 2022 A theoretical model of fracture of biological composites considering complex structural arrangement of microstructures
+October 2022 Variational estimates for the effective properties and field statistics of composites with variable particle interaction strengths
+October 2022 A concurrent irradiation-mechanics multiscale coupling model
+October 2022 A physics-based crystal plasticity model for the prediction of the dislocation densities in micropillar compression
+October 2022 Rate-dependent fracture of hydrogels due to water migration
+October 2022 Does elastic stress modify the equilibrium corner angle?
+October 2022 Mechanical coupling effects of 2D lattices uncovered by decoupled micropolar elasticity tensor and symmetry operation
+October 2022 Energy release rate for cracks in hydrogels undergoing finite deformations
+October 2022 On continuum modeling of cell aggregation phenomena
+October 2022 Homogenization of discrete mesoscale model of concrete for coupled mass transport and mechanics by asymptotic expansion
+October 2022 Macroscopic yielding and particle-scale densification mechanisms in ultrasonic powder compaction
+October 2022 Constitutive modelling of hydrolytic degradation in hydrogels
+October 2022 Formation of surface wrinkles and creases in constrained dielectric elastomers subject to electromechanical loading
+October 2022 Gradient-enhanced modelling of deformation-induced anisotropic damage in metallic glasses
+November 2022 Editorial Board
+November 2022 3D CP-XFEM modelling of short crack propagation interacting with twist/tilt nickel grain boundaries
+November 2022 A multi-scale framework to predict damage initiation at martensite/ferrite interface
+November 2022 Modeling coupled electrochemical and mechanical behavior of soft ionic materials and ionotronic devices
+November 2022 Polyacrylamide hydrogels. V. Some strands in a polymer network bear loads, but all strands contribute to swelling
+November 2022 Crystal plasticity modeling of low-cycle fatigue behavior of an Mg-3Al-1Zn alloy based on a model, including twinning and detwinning mechanisms
+November 2022 Dislocation dynamics in heterogeneous nanostructured materials
+November 2022 Model of void nucleation on grain boundaries in dynamic failure of ductile metals incorporating interface incompatibility
+November 2022 Quasi-static crack front deformations in cohesive materials
+November 2022 Learning hyperelastic anisotropy from data via a tensor basis neural network
+November 2022 Deep learning in frequency domain for inverse identification of nonhomogeneous material properties
+November 2022 Unfolding engineering metamaterials design: Relaxed micromorphic modeling of large-scale acoustic meta-structures
+November 2022 A predicting model for three-dimensional crack growth in power-law creeping solids
+November 2022 Unravelling physical origin of the Bauschinger effect in glassy polymers
+November 2022 Constructing growth evolution laws of arteries via reinforcement learning
+November 2022 Identification of dislocation reaction kinetics in complex dislocation networks for continuum modelling using data-driven methods
+November 2022 An atomistic-based finite deformation continuum membrane model for monolayer Transition Metal Dichalcogenides
+November 2022 Delayed tensile instabilities of hydrogels
+November 2022 Ray theory for elastic wave propagation in graded metamaterials
+November 2022 Dynamic magneto-flexoelectricity and seismo-electromagnetic phenomena: Connecting mechanical response to electromagnetic signatures
+November 2022 The in-plane, elastic-plastic response of a filled hexagonal honeycomb at finite strain
+November 2022 Surface pattern formation induced by oscillatory loading of frontally polymerized gels
+December 2022 Editorial Board
+December 2022 Synergistically program thermal expansional and mechanical performances in 3D metamaterials: Design-Architecture-Performance
+December 2022 Kirigami-inspired adhesion with high directional asymmetry
+December 2022 Structural superlubricity with a contaminant-rich interface
+December 2022 A stochastic study of the deformation and failure strain of Au bi-crystalline nanowires with a longitudinal twin boundary
+December 2022 Investigating poromechanical causes for hydraulic fracture complexity using a 3D coupled hydro-mechanical model
+December 2022 Hygro-thermo-mechanical modeling of thin-walled photovoltaic laminates with polymeric interfaces
+December 2022 Mechanics of multi-stimuli temperature-responsive hydrogels
+December 2022 Negative refraction of elastic waves on a metamaterial with anisotropic local resonance
+December 2022 Coupled thermo-hydro-mechanical-chemical processes with reactive dissolution by non-equilibrium thermodynamics
+December 2022 A structural stiffness matrix-based computational mechanics method of epithelial monolayers
+December 2022 Triplet condition: A new condition of supercompatibility between martensitic phases
+December 2022 Forceless folding of thin annular strips
+December 2022 Modeling of temperature- and strain-driven intermetallic compound evolution in an Al–Mg system via a multiphase-field approach with application to refill friction stir spot welding
+December 2022 Strength criterion of graphene GBs combining discrete bond strength and varied bond stretch
+December 2022 Hierarchical multiscale crystal plasticity framework for plasticity and strain hardening of multi-principal element alloys
+December 2022 NN-EUCLID: Deep-learning hyperelasticity without stress data
+December 2022 Adhesion of graded elastic materials: A full self-consistent model and its application
+December 2022 Homogenization, macroscopic instabilities and domain formation in magnetoactive composites: Theory and applications
+December 2022 The jumping dielectric breakdown behavior induced by crack propagation in ferroelectric materials: A phase field study
+December 2022 Characterization of fracture toughness and damage zone of double network hydrogels
+December 2022 A novel dimensional reduction for the equilibrium study of inextensional material surfaces
+December 2022 Buckling of viscoelastic spherical shells
+December 2022 Fracture tolerance induced by dynamic bonds in hydrogels
+December 2022 3D lightweight mechanical metamaterial with nearly isotropic inelastic large deformation response
+December 2022 Geometrical incompatibility guides pattern selection in growing bilayer tubes
+December 2022 Supershear surface waves reveal prestress and anisotropy of soft materials
+December 2022 A bottom-up approach to model collagen fiber damage and failure in soft biological tissues
+December 2022 Modeling interfacial instability patterns during debonding a rigid spherical indenter from thin elastic films
+December 2022 Energy-based fracture mechanics of brittle lattice materials
+December 2022 External work rate and dissipation during crack growth in a viscoelastic material
+December 2022 A model of thermal creep and annealing in finite domains based on coupled dislocation climb and vacancy diffusion
+January 2023 Editorial Board
+January 2023 Integrated simulation, machine learning, and experimental approach to characterizing fracture instability in indentation pillar-splitting of materials
+January 2023 Mechanics of shape-locking-governed R2G adhesion with shape memory polymers
+January 2023 A thermodynamically consistent -integral formulation for fluid-driven fracture propagation in poroelastic continua
+January 2023 On the interplay between roughness and viscoelasticity in adhesive hysteresis
+January 2023 Modeling impact fracture in a quasi-brittle solids using a 3D nonlocal graph-based finite element analysis: Theory, finite element simulations, and experimental verification
+January 2023 Solving transient problems in soft Elasto-Hydrodynamic lubrication
+January 2023 Scaling in size, time and risk—The problem of huge extrapolations and remedy by asymptotic matching
+January 2023 A reduced-order, rotation-based model for thin hard-magnetic plates
+January 2023 Generative multiscale analysis of de novo proteome-inspired molecular structures and nanomechanical optimization using a VoxelPerceiver transformer model
+January 2023 Polyacrylamide hydrogels. VI. Synthesis-property relation
+January 2023 An alternative way to describe thermodynamically-consistent higher-order dissipation within strain gradient plasticity
+January 2023 On the measurement of hardness at high strain rates by nanoindentation impact testing
+January 2023 Fracture initiated from corners in brittle soft materials
+January 2023 Origin of frictional scaling law in circular twist layered interfaces: Simulations and theory
+January 2023 An analytical model for sensing microvascular blood flow in flaps and organ grafts
+January 2023 Membrane-tension-dominated growth mechanism and size modulation of giant unilamellar vesicles in electroformation
+January 2023 The osmocapillary effect on a rough gel surface
+January 2023 Enhancing the fracture resistance of hydrogels by regulating the energy release rate via bilayer designs: Theory and experiments
+January 2023 Revisiting the contact splitting hypothesis: An effective route for enhancing adhesion on rough surface
+January 2023 Atomistically-informed continuum modeling and isogeometric analysis of 2D materials over holey substrates
+January 2023 On temperature scaling in dislocation plasticity
+January 2023 On the direct and reverse multiplicative decompositions of deformation gradient in nonlinear anisotropic anelasticity
+January 2023 An Eulerian thermodynamical formulation of size-dependent plasticity
+January 2023 Snap-induced morphing: From a single bistable shell to the origin of shape bifurcation in interacting shells
+January 2023 Extracting conservative equations from nonconservative state data
+January 2023 Negative refraction in a single-phase flexural metamaterial with hyperbolic dispersion
+February 2023 Editorial Board
+February 2023 Phase-field fracture modeling for large structures
+February 2023 A mixed mode phase-field model of ductile fracture
+February 2023 Bending deformable tension-shear model for nacre-like composites
+February 2023 Topology optimization of nonlinear flexoelectric structures
+February 2023 Mechanosensing model of fibroblast cells adhered on a substrate with varying stiffness and thickness
+February 2023 Continuum damage micromechanics description of the compressive failure mechanisms in sustainable biocomposites and experimental validation
+February 2023 Easy snap-folding of hexagonal ring origami by geometric modifications
+February 2023 Rate effects in detachment of a spherical probe from fibrillar adhesive surfaces
+February 2023 Interpretation of micromorphic constitutive relations for porous materials at the microscale via harmonic decomposition
+February 2023 Neutrally stable double-curved shells by inflection point propagation
+February 2023 Analysis of cone-like singularities in twisted elastic ribbons
+February 2023 A computational study of bio-chemo-mechanics of thrombus-laden aneurysms
+February 2023 Identification of the viscoelastic properties of a hydrogel in sol–gel transition by vibration experiments
+February 2023 Interfacial damage of bilayer graphene under shear deformation: Theory, experiment, and simulation
+February 2023 Nonlinear indentation of second-order hyperelastic materials
+February 2023 A model of void coalescence in columns
+February 2023 A general theory for the bending of multilayer van der Waals materials
+February 2023 Tensile testing of polymers: Integration of digital image correlation, infrared thermography and finite element modelling
+February 2023 A theoretical analysis for the normal impact fracture in thin brittle plates based on the principle of minimum external work
+February 2023 Viscoelastic steady-state rolling contacts: A generalized boundary element formulation for conformal and non-conformal geometries
+February 2023 A shear modified enhanced Gurson constitutive relation and implications for localization
+February 2023 Theory of hard magnetic soft materials to create magnetoelectricity
+February 2023 A new micro–macro transition for hyperelastic materials
+February 2023 Strain localization in 4D imaged by X-ray computed tomography and digital volume correlation: Discrete compaction bands in Leitha limestone
+February 2023 Orthogonal decomposition of anisotropic constitutive models for the phase field approach to fracture
+February 2023 Cohesive-zone models and singularities at corners and cracks in homogeneous materials
+February 2023 Hot-spots in polycrystalline -tetramethylene tetranitramine (-HMX): The role of plasticity and friction
+February 2023 An investigation of Hertzian contact in soft materials using photoelastic tomography
+February 2023 Antiplane spectral boundary integral equation method for an interface between a layer and a half-plane
+February 2023 Chiral nonreciprocal elasticity and mechanical activity
+March 2023 Editorial Board
+March 2023 The role of surface forces in environment-enhanced cracking of brittle solids
+March 2023 A thermo-mechanical phase-field fracture model: Application to hot cracking simulations in additive manufacturing
+March 2023 Void growth yield criteria for intergranular ductile fracture
+March 2023 HR-EBSD analysis of in situ stable crack growth at the micron scale
+March 2023 Periodic necking of misfit hyperelastic filaments embedded in a soft matrix
+March 2023 Crack nucleation and propagation of electromagneto-thermo-mechanical fracture in bulk superconductors during magnetization
+March 2023 Optimal structures for failure resistance under impact
+March 2023 A statistical-chain-based theory for dynamic living polymeric gels with concurrent diffusion, chain remodeling reactions and deformation
+March 2023 Toughness of network materials: Structural parameters controlling damage accumulation
+March 2023 The underlying mechanisms behind the hydration-induced and mechanical response of spider silk
+March 2023 A computationally efficient implementation of continuum dislocation dynamics: Formulation and application to ultrafine-grained Mg polycrystals
+March 2023 A continuum theory of organic mixed ionic-electronic conductors of phase separation
+March 2023 Delamination growth of a sandwich layer by diffusion of a corrosive species
+March 2023 A micromechanically consistent energy estimate for polycrystalline shape-memory alloys. I - General formulation
+March 2023 Modeling finite-strain plasticity using physics-informed neural network and assessment of the network performance
+March 2023 Phase-field modeling of coupled spall and adiabatic shear banding and simulation of complex cracks in ductile metals
+March 2023 The influence of substrate stiffness on interfacial stresses for adhesive microfibrils
+March 2023 Inelastic material formulations based on a co-rotated intermediate configuration—Application to bioengineered tissues
+March 2023 Cavitation/fracture transition of soft materials
+March 2023 Crack path predictions in heterogeneous media by machine learning
+March 2023 Distal and non-symmetrical crack nucleation in delamination of plates via dimensionally-reduced peridynamics
+March 2023 An extended Bueckner–Rice theory for arbitrary geometric perturbations of cracks
+March 2023 Osmotic instability in soft materials under well-controlled triaxial stress
+April 2023 Editorial Board
+April 2023 Topological mechanics beyond wave dynamics
+April 2023 Three-dimensional postbuckling analysis of thick hyperelastic tubes
+April 2023 An electro-chemo-mechanical theory for hydrogel ionotronics: Application to modeling a capacitive strain sensor and a dynamic large strain actuator
+April 2023 A wrinkling-assisted strategy for controlled interface delamination in mechanically-guided 3D assembly
+April 2023 A constitutive framework for rocks undergoing solid dissolution
+April 2023 Modelling and numerical simulation of remodelling processes in cortical bone: An IGA approach to flexoelectricity-induced osteocyte apoptosis and subsequent bone cell diffusion
+April 2023 Overcoming strength–ductility trade-off of nanocrystalline metals by engineering grain boundary, texture, and gradient microstructure
+April 2023 Nucleation of frictional slip: A yielding or a fracture process?
+April 2023 Coupled chemo-mechanical modeling of point-defect diffusion in a crystal plasticity fast Fourier transform framework
+April 2023 Fusion of two stable elastic structures resulting in an unstable system
+April 2023 A mechanistically motivated constitutive model of biopolymer hydrogels with structural evolution
+April 2023 A visco-hyperelastic model for hydrogels with tunable water content
+April 2023 Mechanical characterization of thin films via constant strain rate membrane deflection experiments
+April 2023 Interfacial shear stress transfer between elastoplastic fiber and elastic matrix
+April 2023 Evolving microstructures in relaxed continuum damage mechanics for the modeling of strain softening
+April 2023 The Green’s function based thermoelastic analysis of spherical geothermal tanks in a semi-infinite domain
+April 2023 Dynamic crack penetration vs. deflection at material interfaces and the role of rate dependent strength and toughness
+April 2023 Fracture universality in amorphous nanowires
+April 2023 Frictional state evolution laws and the non-linear nucleation of dynamic shear rupture
+April 2023 Why does an elastomer layer confined between two rigid blocks grow numerous cavities?
+April 2023 Rate-dependent evolution of wrinkling films due to growth on semi-infinite planar viscoelastic substrates
+April 2023 Microstructure realization of a lattice-based polar solid for arbitrary elastic waveguiding
+April 2023 Corrigendum to Spider silks mechanics: Predicting humidity and temperature effects: Journal of the Mechanics and Physics of Solids 164 (2022) 104857
+April 2023 Non-local large-strain FFT-based formulation and its application to interface-dominated plasticity of nano-metallic laminates
+April 2023 A discrete-to-continuum model of weakly interacting incommensurate two-dimensional lattices: The hexagonal case
+April 2023 Static friction models for a rod deforming on a cylinder
+April 2023 Dynamic strain localization into a compaction band via a phase-field approach
+April 2023 A micromechanically consistent energy estimate for polycrystalline shape-memory alloys, II: Application to Lüders-type strain localization
+April 2023 On topology optimization with gradient-enhanced damage: An alternative formulation based on linear physics
+April 2023 Nonreciprocal oscillations of polyelectrolyte gel filaments subject to a steady and uniform electric field
+April 2023 Hard magnetics in ultra-soft magnetorheological elastomers enhance fracture toughness and delay crack propagation
+April 2023 Breakdown of Reye’s theory in nanoscale wear
+April 2023 Mechanism of strain hardening of magnesium single-crystals: Discrete dislocation dynamics simulations
+April 2023 Microstructure-based intergranular fatigue crack nucleation model: Dislocation transmission versus grain boundary cracking
+April 2023 Dislocation structures formation induced by thermal stress in additive manufacturing: Multiscale crystal plasticity modeling of dislocation transport
+April 2023 Digitized design and mechanical property reprogrammability of multistable origami metamaterials
+April 2023 Perspective: Machine learning in experimental solid mechanics
+April 2023 Controlling the fracture response of structures via topology optimization: From delaying fracture nucleation to maximizing toughness
+April 2023 Temperature and rate-dependent plastic deformation mechanism of carbon nanotube fiber: Experiments and modeling
+April 2023 Crack-parallel stress effect on fracture energy of plastic hardening polycrystalline metal identified from gap test scaling
+April 2023 Strengthening via Orowan Looping of Misfitting Plate-like Precipitates
+April 2023 Fluctuations of active membranes with nonlinear curvature elasticity
+April 2023 A cuboidal open cell model for constitutive modeling of surface effects in fluid-saturated porous materials
+May 2023 Editorial Board
+May 2023 Mesoscale shock structure in particulate composites
+May 2023 MR elastography of soft porous tissue phantoms with varying macrostructure and pore pressure
+May 2023 A statistical mechanics framework for polymer chain scission, based on the concepts of distorted bond potential and asymptotic matching
+May 2023 Evolution TANN and the identification of internal variables and evolution equations in solid mechanics
+May 2023 Inverse-designed single-phase elastic metasurfaces for underwater acoustic vortex beams
+May 2023 High-velocity impact fragmentation of additively-manufactured metallic tubes
+May 2023 A model for redistribution of oppositely charged point defects under the stress field of dislocations in nonstoichiometric ionic solids: Implications in doped ceria
+May 2023 Numerical and experimental investigation of second-order mechanical topological insulators
+May 2023 Cracking modes in layered hyperelastic structures
+May 2023 A chemo-mechanical coupling model of oxidation and interlayer cracking of copper nanowires
+May 2023 Detection and reduction of systematic bias in high-throughput rupture experiments
+May 2023 Coupling model of electromigration and experimental verification – Part II: Impact of thermomigration
+May 2023 Coupling model of electromigration and experimental verification – Part I: Effect of atomic concentration gradient
+May 2023 Computation of effective elastic moduli of rocks using hierarchical homogenization
+May 2023 Controlling and visualizing fracture of 2D crystals by wrinkling
+May 2023 A constitutive model of liquid crystal elastomers with loading-history dependence
+May 2023 A generalized anisotropic damage interface model for finite strains
+May 2023 Revealing the coaction of viscous and multistability hysteresis in an adhesive, nominally flat punch: A combined numerical and experimental study
+May 2023 Blood pressure-driven rupture of blood vessels
+May 2023 Corrigendum to ‘Triplet condition: A new condition of supercompatibility between martensitic phases’ [Journal of the Mechanics and Physics of Solids 169 (2022) /105050]
+May 2023 A continuum electro-chemo-mechanical gradient theory coupled with damage: Application to Li-metal filament growth in all-solid-state batteries
+June 2023 Editorial Board
+June 2023 Actin based motility unveiled: How chemical energy is converted into motion
+June 2023 Oxide growth and stress evolution underneath cracked environmental barrier coatings
+June 2023 A mechanical model for reinforced, expanding spirally-wound layered materials
+June 2023 Size-dependent shape characteristics of 2D crystal blisters
+June 2023 Statistical mechanics of coil–rod structure in biopolymer gels
+June 2023 A one-dimensional model for axisymmetric deformations of an inflated hyperelastic tube of finite wall thickness
+June 2023 Swelling-induced pattern transformations of periodic hydrogels — from the wrinkling of internal surfaces to the buckling of thin films
+June 2023 Cooperative propagation and directional phase transition of topological solitons in multi-stable mechanical metamaterials
+June 2023 Biochemomechanical Tensegrity Model of Cytoskeletons
+June 2023 Chemically identical gels I – under-crosslinked networks
+June 2023 A general continuum damage model for soft composites
+June 2023 Polymer networks which locally rotate to accommodate stresses, torques, and deformation
+June 2023 A framework to simulate the crack initiation and propagation in very-high-cycle fatigue of an additively manufactured AlSi10Mg alloy
+June 2023 Determining the volume fraction in 2-phase composites and bodies using time varying applied fields
+June 2023 Constitutive modelling of fibre networks with stretch distributions, Part II: Alternative representation, affine distribution and anisotropy
+June 2023 Discovery of quasi-disordered truss metamaterials inspired by natural cellular materials
+June 2023 In-operando spectroscopic interrogation of macromolecular conformational changes in polyurea elastomers under high strain rate loading
+June 2023 Electroelasticity of copolymer networks
+June 2023 The biomechanical role of the functionally graded microfibrils in the wood cell wall
+June 2023 Mechanics of regulatable hydrogel adhesion with elastic heterogeneity
+July 2023 Editorial Board
+July 2023 Hydrolytic crack growth and embrittlement in poly(ethylene terephthalate)
+July 2023 Origins of strengthening and toughening effects in twinned nanocrystalline alloys of low stacking fault energy with heterogeneous grain structure
+July 2023 Dislocation climb driven by lattice diffusion and core diffusion
+July 2023 Surface elasticity and area incompressibility regulate fiber beading instability
+July 2023 A mechanism-based multisurface plasticity model for hexagonal close-packed materials with detailed validation and assessment
+July 2023 Modeling shear-induced solid-liquid transition of granular materials using persistent homology
+July 2023 Cryogenic ductile and cleavage fracture of bcc metallic structures – Influence of anisotropy and stress states
+July 2023 A phase-field model for ferroelectrics with general kinetics, Part I: Model formulation
+July 2023 Optimal elastostatic cloaks
+July 2023 Modeling and simulation of laser shock waves in elasto-plastic polycrystalline microstructures
+July 2023 On Peierls–Rice–Beltz nonlocal continuum model and simulations of mesoscale dislocations (slips) and shear cracks
+July 2023 A strain energy function for large deformations of compressible elastomers
+July 2023 Efficient design of helical higher-order topological insulators in 3D elastic medium
+August 2023 Editorial Board
+August 2023 Collective migration of cells in geometric spaces: Intrinsic correlation length racing against extrinsic confinement size
+August 2023 Atomistic analyses of fracture in
+α
+,
+β
+and lamellar
+α
+-
+β
+Ti single crystals
+August 2023 A unified determinant-preserving formulation for compressible/incompressible finite viscoelasticity
+August 2023 Determination of material parameters in constitutive models using adaptive neural network machine learning
+August 2023 Mechanistic modelling of fatigue nucleation and short crack growth in polycrystalline alloys
+September 2023 Editorial Board
+September 2023 Some results on the Guest–Hutchinson modes and periodic mechanisms of the Kagome lattice metamaterial
+September 2023 Grain size and shape dependent crystal plasticity finite element model and its application to electron beam welded SS316L
+September 2023 Computational morphomechanics of growing plant roots
+September 2023 Shrinkage stress evolution during photopolymerization: Theory and experiments
+September 2023 Learning macroscopic internal variables and history dependence from microscopic models
+September 2023 Crack tip kinematics reveal the process zone structure in brittle hydrogel fracture
+September 2023 A diffusion–deformation model with damage for polymer undergoing rapid decompression failure
+September 2023 A coupled approach to predict cone-cracks in spherical indentation tests with smooth or rough indenters
+September 2023 Atomistic determination of Peierls barriers of dislocation glide in nickel
+September 2023 Crack impinging on a curved weak interface: Penetration or deflection?
+September 2023 Mechanical feedback in regulating the size of growing multicellular spheroids
+September 2023 Data-driven breakage mechanics: Predicting the evolution of particle-size distribution in granular media
+September 2023 Variational free energy based macroscopical modeling of ferroelectroelasticity
+September 2023 Strain stiffening retards growth instability in residually stressed biological tissues
+September 2023 On the structure of poroplastic constitutive relations
+September 2023 A finite deformation phase field model suitable for cohesive fracture
+October 2023 Editorial Board
+October 2023 A semi-analytical solution to the stress intensity factors of branched cracks
+October 2023 Objective molecular dynamics study of cross slip under high-rate deformation
+October 2023 On the mechanistic driving force for short fatigue crack path
+October 2023 Multiscale modeling of lung mechanics: From alveolar microstructure to pulmonary function
+October 2023 Magneto-viscoelasticity of hard-magnetic soft-elastomers: Application to modeling the dynamic snap-through behavior of a bistable arch
+October 2023 Modeling the evolution of representative dislocation structures under high thermo-mechanical conditions during Additive Manufacturing of Alloys
+October 2023 A pseudo-hyperelastic model incorporating the rate effects for isotropic rubber-like materials
+October 2023 Yield surface for void growth and coalescence of porous anisotropic materials under axisymmetric loading
+October 2023 A macroscopic constitutive relation for isotropic-genesis, polydomain liquid crystal elastomers
+October 2023 Neural networks meet hyperelasticity: A guide to enforcing physics
+October 2023 Microstructure of macrointerfaces in shape-memory alloys
+October 2023 Variationally consistent modeling of a sensor-actuator based on shape-morphing from electro-chemical–mechanical interactions
+October 2023 Phase-field modeling of dislocation–interstitial interactions
+October 2023 A discrete dislocation dynamics model of creep in polycrystals
+October 2023 Data-driven statistical reduced-order modeling and quantification of polycrystal mechanics leading to porosity-based ductile damage
+October 2023 A constitutive framework for micro-to-macroplasticity of crystalline materials under monotonic and cyclic deformation
+October 2023 Slip intermittency and dwell fatigue in titanium alloys: a discrete dislocation plasticity analysis
+October 2023 Emergent dynamics in slime mold networks
+October 2023 A physically-based hydrostatic strain energy model for rubber-like materials inspired by Flory-Orwoll-Vrij equation of state theory
+October 2023 Fragmentation of inflated elastic brittle rings: Emergence of the quasi-equidistant spacing of cracks
+October 2023 A multiscale framework for modeling fibrin fiber networks: Theory development and validation
+October 2023 A finite rotation, small strain 2D elastic head model, with applications in mild traumatic brain injury
+October 2023 Universal shielding effect of curvature on two interacting cracks
+October 2023 Shear banding as a dissipative structure from a thermodynamic viewpoint
+October 2023 Nonequilibrium thermodynamic modeling of case II diffusion in glassy polymers
+October 2023 Deep learning aided inverse design of the buckling-guided assembly for 3D frame structures
+October 2023 A coupled mechanical-electrochemical phase-field formulation for understanding the evolution of lithiated-silicon sponge
+October 2023 An FFT-based framework for predicting corrosion-driven damage in fractal porous media
+October 2023 Data-driven hyperelasticity, Part I: A canonical isotropic formulation for rubberlike materials
+October 2023 A computational model for early cell spreading, migration, and competing taxis
+October 2023 Network alteration of cyclically loaded elastomers mediated by dynamic bonds
+October 2023 On the effective dynamic mass of mechanical lattices with microstructure
+November 2023 Editorial Board
+November 2023 Kinetic friction of structurally superlubric 2D material interfaces
+November 2023 Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites
+November 2023 Continuum modeling predictions of nonlinear specific heat in phase transition of energetic materials
+November 2023 Blast-loading simulators: Multiscale design of graded cellular projectiles considering projectile–beam coupling effect
+November 2023 Load–displacement relation and gap distribution between rough surfaces: Partial differential equations approach
+November 2023 Microstructurally-sensitive fatigue crack nucleation in a Zircaloy-4 alloy
+November 2023 Multiple equilibrium states of a curved-sided hexagram: Part I—stability of states
+November 2023 Multiple equilibrium states of a curved-sided hexagram: Part II—Transitions between states
+November 2023 A general model for anisotropic pseudo-elasticity and viscoelasticity at finite strains
+November 2023 Cooperative deformation mechanisms in a fatigued CoCrNi multi-principal element alloy: A case of low stacking fault energy
+November 2023 Modeling the dynamic magneto-mechanical response of magnetic shape memory alloys based on Hamilton’s principle: The numerical algorithm
+November 2023 Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID
+November 2023 Inertial effect on dynamic hardness and apparent strain-rate sensitivity of ductile materials
+November 2023 Thermodynamically consistent neural network plasticity modeling and discovery of evolution laws
+November 2023 Kinking prohibition enhancement of interface crack in artificial periodic structures with local resonators
+November 2023 Resonance with surface waves induces forbidden velocity bands in dislocation glide
+November 2023 The fibrous character of pericellular matrix mediates cell mechanotransduction
+December 2023 Editorial Board
+December 2023 Twisting instabilities in elastic ribbons with inhomogeneous pre-stress: A macroscopic analog of thermodynamic phase transition
+December 2023 A coupled model of transport-reaction-mechanics with trapping, Part II: Large strain analysis
+December 2023 Modeling fatigue behavior of additively manufactured alloys with an emphasis on pore defect morphology
+December 2023 A Darcy–Cahn–Hilliard model of multiphase fluid-driven fracture
+December 2023 Domain pattern formation in tetragonal ferroelectric ceramics
+December 2023 Anisotropic damage behavior in fiber-based materials: Modeling and experimental validation
+December 2023 A theoretical framework for dynamic anticrack and supershear propagation in snow slab avalanches
+December 2023 A generative modeling framework for inferring families of biomechanical constitutive laws in data-sparse regimes
+December 2023 A semi-analytical inverse method to obtain the hyperelastic potential using experimental data
+December 2023 Polynomial inclusions: Definitions, applications, and open problems
+December 2023 Revealing the predictive power of neural operators for strain evolution in digital composites
+December 2023 Corrigendum to ‘Shear wave speed in pressurized soft tissue’ [J. Mech. Phys. Solids, 119 (2018) 60 – 72]
+December 2023 Modeling heterogeneity and permeability evolution in a compaction band using a phase-field approach
+December 2023 Continuum theory for confluent cell monolayers: Interplay between cell growth, division, and intercalation
+December 2023 Dissipation mechanisms of crack-parallel stress effects on fracture process zone in concrete
+December 2023 Adhesion in soft contacts is minimum beyond a critical shear displacement
+December 2023 A finite crack growth energy release rate for elastic-plastic fracture
+December 2023 Dynamic homogenization of heterogeneous piezoelectric media: A polarization approach using infinite-body Green’s function
+December 2023 A nanofibril network model of biological silks
+December 2023 Nonlinear mechanics of remodeling
+December 2023 Stabilization against gravity and self-tuning of an elastic variable-length rod through an oscillating sliding sleeve
+December 2023 A continuous pleated birod for converting contractions into twisting through instability
+December 2023 Functional significance of lamellar architecture in marine sponge fibers: Conditions for when splitting a cylindrical tube into an assembly of tubes will decrease its bending stiffness
+December 2023 Imaging of atomic stress at grain boundaries based on machine learning
+December 2023 The mechanics of embedded fiber networks
+December 2023 Delayed fracture caused by time-dependent damage in PDMS
+December 2023 Effect of stacking sequence and interlayer toughening in ＋/−45 laminates
+December 2023 MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems
+December 2023 Mechanics, modeling, and shape optimization of electrostatic zipper actuators
+December 2023 Souriau’s general covariant formulation of Relativistic Hyperelasticity revisited
+December 2023 What are the “dispersive shear bands” on the surfaces of layered heterostructured materials?
+December 2023 A unified strength criterion for two-dimensional materials via bond failure analysis
+December 2023 Data-driven hyperelasticity, Part II: A canonical framework for anisotropic soft biological tissues
+December 2023 Isogeometric smooth crack-band model (isCBM) using spress–sprain relations adapted to microplane theory
+December 2023 How does roughness kill adhesion?
+December 2023 Single-test evaluation of directional elastic properties of anisotropic structured materials
+December 2023 Complementing a continuum thermodynamic approach to constitutive modeling with symbolic regression
+December 2023 Crystal plasticity modeling for the strengthening effect of multilayered copper–graphene nanocomposites
+January 2024 Editorial Board
+January 2024 Nonlinear anisotropic viscoelasticity
+January 2024 Bending the rules: Strain accommodation in layered crystalline solids through nanoscale buckling over dislocations
+January 2024 The strength of the Brazilian fracture test
+January 2024 Frictional slip wave solutions for dynamic sliding between a layer and a half-space
+January 2024 A continuum particle model for micro-scratch simulations of crystalline silicon
+January 2024 Buckling and lift-off of a heavy rod compressed into a cylinder
+January 2024 A phase-field formulation for cohesive fracture based on the Park–Paulino–Roesler (PPR) cohesive fracture model
+January 2024 Mechanics and topology of twisted hyperelastic filaments under prescribed elongations: Experiment, theory, and simulation
+January 2024 A snap-through instability of cell adhesion under perturbations in hydrostatic pressure
+January 2024 Asymptotically matched extrapolation of fishnet failure probability to continuum scale
+January 2024 Elastic energy and polarization transport through spatial modulation
+January 2024 A simple quantitative model of neuromodulation, Part I: Ion flow through neural ion channels
+January 2024 Non-Hermitian wave dynamics of odd plates: Microstructure design and theoretical modelling
+January 2024 A treatment of particle–electrolyte sharp interface fracture in solid-state batteries with multi-field discontinuities
+January 2024 Deformation and failure mechanisms in spider silk fibers
+February 2024 Editorial Board
+February 2024 Coexistence of five domains at single propagating interface in single-crystal NiMnGa shape memory alloy
+February 2024 Evolution of fiber distributions in homogenized constrained mixture models of soft tissue growth and remodeling: Uniaxial loading
+February 2024 Topology optimization of flexoelectric metamaterials with apparent piezoelectricity
+February 2024 Dynamic high-order buckling and spontaneous recovery of active epithelial tissues
+February 2024 Angle-dependent protrusion of cell membranes
+February 2024 Pinning cracks by microstructure design in brittle materials
+February 2024 How to select discrete or continuous interfaces in biological materials to achieve a strength-toughness tradeoff
+February 2024 A theoretical model to determine solid surface tension through droplet on film configuration and experimental verification
+February 2024 A macroscopic viscoelastic viscoplastic constitutive model for porous polymers under multiaxial loading conditions
+February 2024 A mechanically-derived contact model for adhesive elastic-perfectly plastic particles, Part I: Utilizing the method of dimensionality reduction
+February 2024 Lessons learned from matching 3D DEM and experiments at macro, meso and fabric scales for triaxial compression tests on lentils
+February 2024 Influence of nearby fiber on fiber–matrix debonding: Coupled Criterion prediction and debonding shape determination
+February 2024 Effect of roughness of a nominally plane bonded interface between dissimilar materials
+February 2024 A mechanically-derived contact model for adhesive elastic-perfectly plastic particles, Part II: Contact under high compaction—modeling a bulk elastic response
+February 2024 Finding transition state and minimum energy path of bistable elastic continua through energy landscape explorations
+February 2024 A unified disconnection model of stress-driven grain boundary migration in nanocrystalline metals
+February 2024 Enhancing the crack initiation resistance of hydrogels through crosswise cutting
+February 2024 Fluid-driven slow slip and earthquake nucleation on a slip-weakening circular fault
+February 2024 Size effects in a power law creeping layer under compression or shear, and implications for deformation mechanisms of lithium films
+February 2024 Coupling diffusion and finite deformation in phase transformation materials
+February 2024 Is a high-throughput experimental dataset large enough to accurately estimate a statistic?
+February 2024 Achieving irreversibility in damage evolution: Extended gradient damage model with decoupled damage profile and cohesive law
+February 2024 Validating continuum theory for Cottrell atmosphere solute drag by molecular dynamics simulations
+February 2024 Mechanical forces quench frontal polymerization: Experiments and theory
+February 2024 Pull-off dynamics of mushroom-shaped adhesive structures
+February 2024 Multi-scale spallation model for single-crystal ductile metals incorporating microscopic mechanism of void nucleation
+February 2024 Entropic pressure on fluctuating solid membranes
+February 2024 Mechanism of crack evolution and strength failure in chemo-mechanical induced fracture
+February 2024 Exceptional stress-director coupling at the crack tip of a liquid crystal elastomer
+February 2024 Initiation of motility on a compliant substrate
+March 2024 Editorial Board
+March 2024 Non-slipping adhesive contact between dissimilar elastic solids under normal and tangential loads
+March 2024 Initializing intragranular residual stresses within statistically equivalent microstructures for crystal plasticity simulations
+March 2024 On the origin of Sanchez-Lacombe equation of state theory in hydrostatic strain energy model for rubber-like materials
+March 2024 Rate induced thermomechanical interactions in NiTi tensile tests on strips
+March 2024 Morphomechanics of growing curled petals and leaves
+March 2024 Predicting protein thermal stability changes upon single and multi-point mutations via restricted attention subgraph neural network
+March 2024 Thermal fluctuations (eventually) unfold nanoscale origami
+March 2024 On the theory of mechanically induced chemiluminescence in multiple network elastomers
+March 2024 Grain boundary network plasticity: Reduced-order modeling of deformation-driven shear-coupled microstructure evolution
+March 2024 Force relaxation response in the poroelastic axisymmetric Boussinesq problem for an indenter of arbitrary profiles I: Permeable and impermeable surface drainage conditions
+March 2024 Representation of stress and free energy for a viscoelastic body from a stressed reference
+March 2024 Stress discontinuity and singularity around the vertex of a triangular inhomogeneity
+March 2024 Nonlinear constitutive model of CFRP composites under constant direct current: Combined effects of thermal damage and dielectric degradation
+March 2024 A new methodology for anisotropic yield surface description using model order reduction techniques and invariant neural network
+March 2024 Enhancing toughness through geometric control of the process zone
+March 2024 Elastic fields of double branched and Kalthoff–Winkler cracks in a half-plane
+April 2024 Editorial Board
+April 2024 Modeling storage particle delamination and electrolyte cracking in cathodes of solid state batteries
+April 2024 On the role of plastic relaxation in stress assisted grain boundary oxidation
+April 2024 A continuous phase-evolution model for cold and strain-induced crystallization in semi-crystalline polymers
+April 2024 Revealing the shear fatigue damage mechanism of soft adhesive: Coexistence of viscoelastic and damage dissipation
+April 2024 Effective isometries of periodic shells
+April 2024 Combined influence of shallowness and geometric imperfection on the buckling of clamped spherical shells
+April 2024 A general mechanism for long-range friction modulation in graphene-based moiré heterostructures
+April 2024 Shape-dependent friction scaling laws in twisted layered material interfaces
+April 2024 Design of origami structures with curved tiles between the creases
+April 2024 A constitutive model for hydrogels with tunable mechanical properties by salting-out
+April 2024 Physics-infused deep neural network for solution of non-associative Drucker–Prager elastoplastic constitutive model
+April 2024 An elastic-damaging cohesive law for cell–substrate adhesion with positive and negative durotaxis
+April 2024 Temperature-dependent, multi-mechanism crystal plasticity reveals the deformation and failure behaviour of multi-principal element alloys
+April 2024 Viscoelastic mechanics of two-dimensional granular lattices
+April 2024 A machine learning perspective on the inverse indentation problem: uniqueness, surrogate modeling, and learning elasto-plastic properties from pile-up
+May 2024 Editorial Board
+May 2024 Anomalous tension–compression asymmetry in amorphous silicon: insights from atomistic simulations and elastoplastic constitutive modeling
+May 2024 Effective surface forces and non-coherent interfaces within the reduced relaxed micromorphic modeling of finite-size mechanical metamaterials
+May 2024 On the (lack of) representativeness of quasi-static variational fracture models for unstable crack propagation
+May 2024 A multiscale viscoelastic fiber dispersion model for strain rate-dependent behavior of planar fibrous tissues
+May 2024 On rapid compaction of granular materials: Combining experiments with in-situ imaging and mesoscale modeling
+May 2024 Experimental characterization and constitutive modeling of thermoplastic polyurethane under complex uniaxial loading
+May 2024 Challenging the paradigm for reactive material's ignition from shear to pressure: Thermomechanical study of Al-PTFE
+May 2024 Fracture toughness of two-dimensional materials dominated by edge energy anisotropy
+May 2024 Analytical boundary integral solutions for cracks and thin fluid-filled layers in a 3D poroelastic solid in time and wavenumber domain
+May 2024 Prediction of yield surface of single crystal copper from discrete dislocation dynamics and geometric learning
+May 2024 Mechanistic mapping of random fields for stochastic finite element simulations of quasibrittle fracture
+May 2024 The dominating dimensionless numbers of an elastic-plastic thin plate under dynamic loading
+May 2024 Exploring static responses, mode transitions, and feasible tunability of Kagome-based flexible mechanical metamaterials
+May 2024 High-efficient and reusable impact mitigation metamaterial based on compression-torsion coupling mechanism
+May 2024 A Theoretical Model of Enhanced Adhesion of Bioinspired Micropillar Arrayed Surfaces
+May 2024 Fluid-injection control on energy partitioning during the earthquake cycle
+May 2024 Third-order exceptional points and frozen modes in planar elastic laminates
+May 2024 Mapping deformation and dissipation during fracture of soft viscoelastic solid
+May 2024 Plastic deformations and strain hardening in fully dense granular crystals
+May 2024 Thermal cracking: Clarifying the effects of phases, voids and grains through characterisation and crystal plasticity modelling
+May 2024 Configurational force method enables fracture assessment in soft materials
+May 2024 Computational multiscale modelling of material interfaces in electrical conductors
+May 2024 Mechanobiological tortuosity of blood vessels with stress-modulated growth and remodeling
+May 2024 Multiscale Thermodynamics-Informed Neural Networks (MuTINN) towards fast and frugal inelastic computation of woven composite structures
+May 2024 Surface wrinkling of a film coated to a graded substrate
+May 2024 Machine learning and sequential subdomain optimization for ultrafast inverse design of 4D-printed active composite structures
+May 2024 A reactive electrochemomechanical theory for growth and remodeling of polyelectrolyte hydrogels and application to dynamic polymerization of DNA hydrogels
+May 2024 Fully optimized second-order estimates for the macroscopic behavior and field statistics of particle-reinforced viscoplastic composites
+June 2024 Editorial Board
+June 2024 Nonlinear optimization for compact representation of orientation distributions based on generalized spherical harmonics
+June 2024 Effect of interphase layer on matrix cracking in fiber reinforced ceramic matrix composites
+June 2024 Ellipticity enhances adhesion strength for contacts under shear loads
+June 2024 Optimizing nanoporous metallic actuators through multiscale calculations and machine learning
+June 2024 Experimental assessment of the eigenstress state in two-ply yarns and its effect on tensile properties
+June 2024 Incremental variational approach to gradient damage coupled with poroelasticity of saturated media
+June 2024 Top-down constitutive modelling to capture nanoscale shear localization
+June 2024 Investigating the ductile to brittle transition phenomenon in binary Fe-Ni systems using molecular dynamics simulation
+June 2024 Propagation of solitary waves in origami-inspired metamaterials
+June 2024 A local variational principle for fracture
+June 2024 A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms
+June 2024 Micromechanical analyses on bending of polysynthetically twinned single crystal of titanium aluminide
+June 2024 Curvature controls beading in soft coated elastic cylinders: Finite wavemode instability and localized modulations
+June 2024 Coupling between viscoelasticity and soft elasticity in main-chain nematic Liquid Crystal Elastomers
+June 2024 Cosserat-phase-field modeling of grain nucleation in plastically deformed single crystals
+June 2024 Equilibrium analysis of surface-constrained elastic rods: Unveiling contact and internal forces through local geometry
+June 2024 Predicting the post-bifurcated patterns of architectured materials using group-theoretic tools
+June 2024 Inverse design of three-dimensional multicellular biobots with target functions
+June 2024 On the coupling of Hamilton's principle and thermodynamic extremal principles
+June 2024 A machine learning interatomic potential for high entropy alloys
+June 2024 Molecular simulation-guided and physics-informed constitutive modeling of highly stretchable hydrogels with dynamic ionic bonds
+June 2024 Mechanistic understanding of microstructural effects on the thermal fatigue resistance of solder joints
+June 2024 Multiscale modeling of dislocation-mediated plasticity of refractory high entropy alloys
+June 2024 Towards design of a gradient locally resonant acoustic metasurface for negative reflection
+June 2024 High-cycle shakedown, ratcheting and liquefaction behavior of anisotropic granular material with fabric evolution: Experiments and constitutive modelling
+June 2024 A novel continuum dislocation density field-based crystal plasticity theory
+June 2024 Energy quantification framework for underwater explosive loading into PVC foam cladded composite plates
+June 2024 Reduced membrane model for liquid crystal polymer networks: Asymptotics and computation
+June 2024 Large strain micromechanics of thermoplastic elastomers with random microstructures
+June 2024 Scaling-law variance and invariance of cell plasticity
+June 2024 Modeling shortest paths in polymeric networks using spatial branching processes
+June 2024 A predictive model for fluid-saturated, brittle granular materials during high-velocity impact events
+June 2024 Interfacial failure behavior of Thermal Barrier Coatings (TBCs) at high temperatures: An in-situ indentation study based on X-ray imaging
+July 2024 Editorial Board
+July 2024 Spherical Indentation and Implementation of S3/P for yield stress determination of brittle materials
+July 2024 Estimating the macro strength of rock based on the determined mechanical properties of grains and grain-to-grain interfaces
+July 2024 Micro-mechanics investigation of heterogeneous deformation fields and crack initiation driven by the local stored energy density in austenitic stainless steel welded joints
+July 2024 Modeling solidification cracking: A new perspective on solid bridge fracture
+July 2024 Dispersion and attenuation relations in flexoelectricity
+July 2024 Experiments and modeling of the coupled viscoelasticity and Mullins effect in filled rubber materials
+July 2024 Continuum strain of point defects
+July 2024 Quantifying the mechanical degradation of solid oxide cells based on 3D reconstructions of the real microstructure using a unified multiphysics coupling numerical framework
+July 2024 Kresling origami mechanics explained: Experiments and theory
+July 2024 Contact stiffness of the multi-indenter contact interface
+July 2024 Modeling the improved hydrogen embrittlement tolerance of twin boundaries in face-centered cubic complex concentrated alloys
+July 2024 Robust implementation of Physical Regime Sensitivity and demonstration on Richtmyer–Meshkov Instability experiments
+July 2024 Effective thermodynamic potentials and internal variables: Linear viscoelastic composites
+July 2024 Origami-based bidirectional self-locking system for energy absorption
+July 2024 Heterostructured mechanical metamaterials inspired by the shell of Strombus gigas
+July 2024 Mechanics of abrasion-induced particulate matter emission
+July 2024 I too
+: A new class of hyperelastic isotropic incompressible models based solely on the second invariant
+July 2024 Incompatibility-driven growth and size control during development
+July 2024 Quantized impact of rod on plate
+July 2024 Cracking of soft collagenous tissues under suture retention
+July 2024 Asymptotic, second-order homogenization of linear elastic beam networks
+July 2024 A thermodynamic theory coupling photo-chemo-mechano interactions for light-responsive hydrogel
+July 2024 A micromechanical scheme with nonlinear concentration functions by physics-guided neural network
+July 2024 Phase-field simulation and coupled criterion link echelon cracks to internal length in antiplane shear
+July 2024 The poker-chip experiments of synthetic elastomers explained
+July 2024 Elastic solids under frictionless rigid contact and configurational force
+July 2024 Cavitation in elastomers: A review of the evidence against elasticity
+July 2024 Elastic contact between rough surfaces: Bridging the gap between theory and experiment
+July 2024 How are microstructural defect interactions linked to simultaneous intergranular and transgranular fracture modes in polycrystalline systems?
+July 2024 Interlocked wood-like composites with tunable mechanical properties
+July 2024 On the conditions for self-catapulting of freezing water droplets
+July 2024 Modeling of crack tip fields and fatigue crack growth in fcc crystals
+July 2024 Optimal surface clothing with elastic nets
+August 2024 Editorial Board
+August 2024 Willis dynamic homogenization method for acoustic metamaterials based on multiple scattering theory
+August 2024 Phase-field model for 2D cohesive-frictional shear fracture: An energetic formulation
+August 2024 Impact of out-of-plane deformation on atomic reconstruction in twisted van der Waals bilayers
+August 2024 Collaborative multiscale phase-field model for trans-scale fracture propagation of fiber-reinforced composites
+August 2024 Mechanical characterization and constitutive modeling of additively-manufactured polymeric materials and lattice structures
+August 2024 Energy transmission through and reflection from a layer of random composite
+August 2024 New insights in the 3-D rheological properties and collagen fibers orientation in murine periodontal ligaments
+August 2024 Microstructural and mechanistic insights into the Tension–Compression asymmetry of rapidly solidified Fe–Cr alloys: A phase field and strain gradient plasticity study
+August 2024 Mechanics of gradient nanostructured metals
+August 2024 Fatigue-resistant adhesion through high energy barriers
+August 2024 An interpenetrating-network theory of the cytoskeletal networks in living cells
+August 2024 Configuration space of helical chiral self-assembly of micro/nano-fibers
+August 2024 A multiscale dynamic model of cell–substrate interfaces
+August 2024 Corrigenda to “A phase-field model for fatigue crack growth” [J. Mech. Phys. Solids 132 (2019) 103684] and “Phase-field fracture modeling for large structures” [J. Mech. Phys. Solids 171 (2023) 105118]
+September 2024 Editorial Board
+September 2024 Static topological mechanics with local resonance
+September 2024 Bending stiffness of ionically bonded mica multilayers told by its bubbles
+September 2024 The elastica with pre-stress due to natural curvature
+September 2024 Revealing novel insights into the toughening mechanism of double network hydrogels via uniaxial tensile tests
+September 2024 Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations
+September 2024 Quantized plastic deformation
+September 2024 Generalized continuum theory for nematic elastomers: Non-affine motion and characteristic behavior
+September 2024 A finite geometry, inertia assisted coarsening-to-complexity transition in homogeneous frictional systems
+September 2024 On inherent hyperelastic crease
+September 2024 A variational phase-field framework for multiphysics modelling of degradation and stress corrosion cracking in biodegradable magnesium alloys
+September 2024 The chemo-mechanics of initiation of crack advance in Niobium Tungsten Oxide single crystals due to delithiation
+September 2024 Correlation between synthesis parameters and hyperelasticity of hydrogels: Experimental investigation and theoretical modeling
+September 2024 Model-guided navigation of magnetic soft guidewire for safe endovascular surgery
+September 2024 Realization of planar and surface conformal mappings through stress-free growth of hyperelastic plates: Analytical formulas and numerical calculations
+September 2024 Crossed-state bowing and the strength of binary dislocation junctions
+September 2024 The anomalous crack growth behaviour of an elastic-brittle octet-truss architected solid
+September 2024 The role of adhesion on soft lubrication: A new theory
+September 2024 Sharp-interface limits for brittle fracture via the inverse-deformation formulation
+September 2024 A discrete dislocation analysis of size-dependent plasticity in torsion
+September 2024 Bridging scales with Machine Learning: From first principles statistical mechanics to continuum phase field computations to study order–disorder transitions in Li
+x
+CoO
+2
+September 2024 Origami of multi-layered spaced sheets
+September 2024 Characterization of the interface fracture energy dependency on mixed mode fracture between rigid fiber and soft matrix
+September 2024 Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection
+September 2024 Derivation, characterization, and application of complete orthonormal sequences for representing general three-dimensional states of residual stress
+September 2024 Mechanics of magnetic-shape memory polymers
+September 2024 A kinetic theory for the mechanics and remodeling of transient anisotropic networks
+September 2024 Modeling stochastic elastic wave diffraction by the tips of randomly rough defects
+September 2024 Mineral asperities reinforce nacre through interlocking and friction-like sliding
+September 2024 Effective boundary conditions for second-order homogenization
+September 2024 Modified error-in-constitutive-relation (MECR) framework for the characterization of linear viscoelastic solids
+September 2024 A unified discontinuous Galerkin formulation for interfacial multiphysics modeling of thermo-chemically driven fracture
+September 2024 Mechanics and thermal analyses of microfluidic nerve-cooler system
+September 2024 Hyperelasticity of blood clots: Bridging the gap between microscopic and continuum scales
+September 2024 Robustness and diversity of disordered structures on sound absorption and deformation resistance
+September 2024 Wrinkle-free membranes through spatioselective exposure
+October 2024 Editorial Board
+October 2024 Initiation and arrest of cracks from corners in multi-chip semiconductor devices
+October 2024 Statistical mechanics of active vesicles and the size distribution paradox
+October 2024 Nonuniqueness in defining the polarization: Nonlocal surface charges and the electrostatic, energetic, and transport perspectives
+October 2024 Peridynamic fracture analysis of film–substrate systems
+October 2024 Minimal actuation and control of a soft hydrogel swimmer from flutter instability
+October 2024 A Griffith description of fracture for non-monotonic loading with application to fatigue
+October 2024 A multi-horizon fully coupled thermo-mechanical peridynamics
+October 2024 Curvature programming of freestanding 3D mesostructures and flexible electronics based on bilayer ribbon networks
+October 2024 Phase-field ductile fracture simulations of thermal cracking in additive manufacturing
+October 2024 A multiscale mechanics model for elastic properties of densified wood
+October 2024 Strain-engineered particle diffusion in uniaxially deformed polymer networks
+October 2024 Stretch-independent magnetization in incompressible isotropic hard magnetorheological elastomers
+October 2024 Ductility of a nanocomposite of glassy and rubbery polymers
+October 2024 A micromagnetic-mechanically coupled phase-field model for fracture and fatigue of magnetostrictive alloys
+October 2024 Rainbow trapping of out-of-plane mechanical waves in spatially variant beam lattices
+October 2024 Physics-based discrete models for magneto-mechanical metamaterials
+October 2024 Predicting mechanical properties of mitotic spindles with a minimal constitutive model
+October 2024 The selection mechanism of mineral bridges at the interface of stacked biological materials for a strength-toughness tradeoff
+October 2024 Deformation, shape transformations, and stability of elastic rod loops within spherical confinement
+October 2024 A mechanics and electromagnetic scaling law for highly stretchable radio frequency electronics
+October 2024 Statistical mechanics of plasticity: Elucidating anomalous size-effects and emergent fractional nonlocal continuum behavior
+October 2024 Effects of nonlinearities and geometric imperfections on multistability and deformation localization in wrinkling films on planar substrates
+October 2024 Modelling and simulation of growth driven by mechanical and non-mechanical stimuli
+October 2024 Interactions among phase transition, heat transfer and austenite plasticity in cyclic compression of NiTi shape memory alloys: Effect of loading frequency
+October 2024 Imbibition of water into a cellulose foam: The kinetics
+October 2024 Active interfacial degradation/deposition of an elastic matrix by a fluid inclusion: Theory and pattern formation
+October 2024 Quantifying 3D time-resolved kinematics and kinetics during rapid granular compaction, Part I: Quasistatic and dynamic deformation regimes
+October 2024 An asymptotically consistent morphoelastic shell model for compressible biological structures with finite-strain deformations
+October 2024 Quasi-brittle ice breaking mechanisms by high-velocity water jet impacts: An investigation based on PD-SPH coupling model and experiments
+October 2024 A comprehensive study of nonlinear perturbations in the dynamics of planar crack fronts
+October 2024 A constitutive model that couples light propagation direction and deformation for photo-responsive polymers and polymeric gels
+November 2024 Editorial Board
+November 2024 A simple hydrodynamic model for clay
+November 2024 Achieving ultrastrong adhesion of soft materials by discretized stress dispersion
+November 2024 Hyperinelasticity: An energy-based constitutive modelling approach to isothermal large inelastic deformation of polymers. Part I
+November 2024 The adjustable adhesion strength of multiferroic composite materials via electromagnetic loadings and shape effect of punch
+November 2024 Modeling the electro-chemo-mechanical failure at the lithium-solid electrolyte interface: Void evolution and lithium penetration
+November 2024 Intrinsic fracture toughness of a soft viscoelastic adhesive
+November 2024 Twinning, slip and size effect of phase-transforming ferroelectric nanopillars
+November 2024 Magneto-mechanically derived diffusion processes in ultra-soft biological hydrogels
+November 2024 Towards stable End Notched Flexure (ENF) tests
+November 2024 Unravelling the relation between free volume gradient and shear band deflection induced extra plasticity in metallic glasses
+November 2024 Unstructured growth of irregular architectures for optimized metastructures
+November 2024 A multiscale mechanics model for disordered biopolymer gels containing junction zones with variable length
+November 2024 Pressurized membranes between walls: Thermodynamic process changes force and stiffness
+November 2024 Anisotropic damage evolution in solid fractures: A novel phase field approach with multiple failure criteria and directional-dependent structural tensor
+November 2024 Reconstruction of the local contractility of the cardiac muscle from deficient apparent kinematics
+November 2024 Criterion for unhomogeneous yielding of porous materials
+November 2024 Mechanochemical patterning and wave propagation in multicellular tubes
+November 2024 Cancelling the effect of sharp notches or cracks with graded elastic modulus materials
+November 2024 Fast permeability measurement for tight reservoir cores using only initial data of the one chamber pressure pulse decay test
+November 2024 Exploiting interfacial instability during peeling a flexible plate from elastic films
+November 2024 On the cyclic elastoplastic shakedown behavior of an auxetic metamaterial: An experimental, numerical, and analytical study
+November 2024 Stability and crack nucleation in variational phase-field models of fracture: Effects of length-scales and stress multi-axiality
+November 2024 Growth of ferroelectric domain nuclei: Insight from a sharp-interface model
+November 2024 Hyperinelasticity. Part II: A stretch-based formulation
+November 2024 A photo-chemo-mechanical coupling constitutive model for photopolymerization-based 3D printing hydrogels
+November 2024 Stochastic process model for interfacial gap of purely normal elastic rough surface contact
+November 2024 The mesoscale mechanics of compacted ductile powders under shear and tensile loads
+November 2024 Enhancement of adhesion strength in viscoelastic unsteady contacts
+November 2024 Simple and effective mechanical cloaking
+November 2024 A generalized geometric mechanics theory for multi-curve-fold origami: Vertex constrained universal configurations
+November 2024 Derivation of an effective plate theory for parallelogram origami from bar and hinge elasticity
+November 2024 Effects of adhesive and frictional contacts on the nanoindentation of two-dimensional material drumheads
+November 2024 Polyconvex neural network models of thermoelasticity
+November 2024 The importance of a full chemo-poro-mechanical coupling for the modeling of subcutaneous injections
+November 2024 Phase-field simulations of ferro-electro-elasticity in model polycrystals with implications for phenomenological descriptions of bulk perovskite ceramics
+November 2024 Imaging the intramuscular pressure of living muscles with shear waves
+November 2024 Fracture mechanics of bi-material lattice metamaterials
+November 2024 A generalized phase-field cohesive zone model (
+PF-CZM) for fracture
+November 2024 A generalized strain model for spectral rate-dependent constitutive equation of transversely isotropic electro-viscoelastic solids
+December 2024 Editorial Board
+December 2024 Recovering Mullins damage hyperelastic behaviour with physics augmented neural networks
+December 2024 Instabilities in a two-dimensional granular fault gouge: Particle dynamics and stress fluctuations
+December 2024 Bulk and fracture process zone contribution to the rate-dependent adhesion amplification in viscoelastic broad-band materials
+December 2024 Rayleigh surface waves of extremal elastic materials
+December 2024 Emergent fault friction and supershear in a continuum model of geophysical rupture
+December 2024 Second-order Willis metamaterials: Gradient elasto-momentum coupling in flexoelectric composites
+December 2024 90-degree peeling of elastic thin films from elastic soft substrates: Theoretical solutions and experimental verification
+December 2024 Fracture and size effect in mechanical metamaterials
+December 2024 A regularized variational mechanics theory for modeling the evolution of brittle crack networks in composite materials with sharp interfaces
+December 2024 Nonlinear dynamics of a flexible rod partially sliding in a rigid sleeve under the action of gravity and configurational force
+December 2024 Intrinsic interlayer shear strength of graphite
+December 2024 Free energy and extension of stiff polymer chains confined in nanotubes with diverse cross-sectional shapes
+December 2024 A crystal plasticity-based creep model considering the concurrent evolution of point defect, dislocation, grain boundary, and void
+December 2024 How do multiple active cellular forces co-regulate wound shape evolution?
+December 2024 A chemo-mechanical model for growth and mechanosensing of focal adhesion
+December 2024 Self-consistent solution of the Frank–Bilby equation for interfaces containing disconnections
+December 2024 Cracking in semiconductor devices–effect of plasticity under triaxial constraint
+December 2024 Stress–strain hysteresis during hydrostatic loading of porous rocks
+December 2024 Intrinsic tensile brittleness of tilted grain boundaries and its shear toughening
+December 2024 Adhesive and cohesive fracture of blood clots: Experiments and modeling
+December 2024 Electroactive differential growth and delayed instability in accelerated healing tissues
+December 2024 Evolution of static to dynamic mechanical behavior in topological nonreciprocal active metamaterials
+December 2024 A bistable chain on elastic foundation
+December 2024 Advanced modeling of higher-order kinematic hardening in strain gradient crystal plasticity based on discrete dislocation dynamics
+December 2024 Exponential time propagators for elastodynamics
+December 2024 Generalized grain boundary constitutive description implemented in a strain-gradient large-strain FFT-based formulation: Application to nano-metallic laminates
+December 2024 Data-driven bio-mimetic composite design: Direct prediction of stress–strain curves from structures using cGANs
+December 2024 The effect of stress barriers on unconventional-singularity-driven frictional rupture
+December 2024 On the experimental identification of equilibrium relations and the separation of inelastic effects in soft biological tissues
+December 2024 Modeling of textile composite using analytical network-averaging and gradient damage approach
+December 2024 Analysis of shear localization in viscoplastic solids with pressure-sensitive structural transformations
+December 2024 An analytic traction-displacement model for a reinforcing ligament bridging a crack at an arbitrary angle, including elastic, frictional, snubbing, yielding, creep, and fatigue phenomena
+December 2024 A multiscale Bayesian method to quantify uncertainties in constitutive and microstructural parameters of 3D-printed composites
+December 2024 A covariant formulation for finite strain modelling of orthotropic elasticity and orthotropic plasticity with plasticity-induced evolution of orthotropy: Application to natural fibres
+December 2024 Hyperelastic constitutive relations for porous materials with initial stress
+December 2024 Nonlinear mechanical behaviour and visco-hyperelastic constitutive description of isotropic-genesis, polydomain liquid crystal elastomers at high strain rates
+December 2024 Investigating fracture mechanisms in glassy polymers using coupled particle-continuum simulations
+December 2024 Numerical and experimental crack-tip cohesive zone laws with physics-informed neural networks
+December 2024 Creasing instability of polydomain nematic elastomers in compression
+December 2024 A multiscale model to understand the interface chemistry, contacts, and dynamics during lithium stripping
+December 2024 Surface matching design of carbon fiber composite honeycomb
+December 2024 Analyzing flexoelectric polarization of suspended membrane by nonlinear bending theory of plate
+December 2024 The hierarchical energy landscape of edge dislocation glide in refractory high-entropy alloys
+December 2024 Strain fields and solitary strain waves as determining factors for the cross-sectional geometry of mouse incisor enamel
+December 2024 Hall effect and topological phase transition of nonlinear elastic wave metamaterials with local resonators
+December 2024 Electromechanics of stretchable hybrid response pressure sensors based on porous nanocomposites
+December 2024 A mechanics-based data-free Problem Independent Machine Learning (PIML) model for large-scale structural analysis and design optimization
+December 2024 Crack tip stress intensification in strain-induced crystallized elastomer
+December 2024 Least failure energy density: A comprehensive strength index to evaluate and optimize heterogeneous periodic structures
+December 2024 Energetic exhaustiveness for the direct characterization of energy forms of hyperelastic isotropic materials
+December 2024 Effective thermodynamic potentials and internal variables: Particulate thermoviscoelastic composites
+December 2024 Progressive failure analysis of laminates with an open hole subjected to compressive loading (OHC) using the enhanced semi-discrete modeling framework
+December 2024 Nonlinear mechanics of phase-change-induced accretion
+December 2024 Wrinkling of differentially growing bilayers with similar film and substrate moduli
+December 2024 Tuning the stiffness and stretchability of micro-scale-structured polymer membrane simultaneously by integrating mechanical modeling and spatiotemporal controllable photolithograph
+December 2024 Programmable multi-stability of curved-crease origami structures with travelling folds
+December 2024 Eulerian rates of elastic incompatibilities applied to size-dependent hardening in finite torsion
+December 2024 Residual stress development in lattice mismatched epitaxial thin films via atomic and molecular layer depositions
+December 2024 Relation of synthesis and fatigue property in elastic soft materials
+December 2024 Unifying creep and fatigue modeling of composites: A time-homogenized micromechanical framework with viscoplasticity and cohesive damage
+December 2024 Generalised invariants and pseudo-universal relationships for hyperelastic materials: A new approach to constitutive modelling
+December 2024 On the role of the retained porosity on the shock response of additively manufactured high-performance steel: Experiments, constitutive model and finite-element predictions
+December 2024 Crystallographically programmed kirigami metamaterials
+December 2024 Understanding of topological mode and skin mode morphing in 1D and 2D non-Hermitian resonance-based meta-lattices
+December 2024 Strain energy density maximization principle for material design and the reflection in trans-scale continuum theory
+December 2024 Nonlinear soliton spiral induces coupled multimode dynamics in multi-stable dissipative metamaterials
+December 2024 Inertia effect of deformation in amorphous solids: A dynamic mesoscale model
+December 2024 Filled elastomers sliding over smooth obstacles: Experiments and modeling in large deformations
+December 2024 Elastoplastic plate shakes down under repeated impulsive loadings
+December 2024 Twinning in porous elastomers
+December 2024 Premature jump-to-contact with elastic surfaces
+January 2025 Editorial Board
+January 2025 Three-dimensional fracture mechanics model of conch shells with hierarchical crossed-lamellar structures
+January 2025 Traction-based microplane model for charactering the progressive failure of rock-like material
+January 2025 Mechanics-informed, model-free symbolic regression framework for solving fracture problems
+January 2025 A theoretical framework for multi-physics modeling of poro-visco-hyperelasticity-induced time-dependent fracture of blood clots
+January 2025 A foundational framework for the mesoscale modeling of dynamic elastomers and gels
+January 2025 Cyclic and helical symmetry-informed machine learned force fields: Application to lattice vibrations in carbon nanotubes
+January 2025 Modeling deformation, recovery, and recrystallization of tantalum using a higher order elasto-viscoplastic self-consistent model
+January 2025 Analysis of mode I crack propagation in glassy polymers under cyclic loading using a molecular dynamics informed continuum model for crazing
+January 2025 Non-Schmid continuum slip crystal plasticity with implications for dissipation rate
+January 2025 Statistical-Physics-Informed Neural Networks (Stat-PINNs): A machine learning strategy for coarse-graining dissipative dynamics
+January 2025 ViscoNet: A lightweight FEA surrogate model for polymer nanocomposites viscoelastic response prediction
+January 2025 Viscous solvent effect on fracture of predamaged double-network gels examined by pre-notch and post-notch crack tests
+January 2025 Regularization of softening plasticity with the cumulative plastic strain-rate gradient
+January 2025 Damage-induced energy dissipation in artificial soft tissues
+January 2025 Effective extensional–torsional elasticity and dynamics of helical filaments under distributed loads
+January 2025 Modeling yield stress scaling and cyclic response using a size-dependent theory with two plasticity rate fields
+January 2025 Parametric extended physics-informed neural networks for solid mechanics with complex mixed boundary conditions
+January 2025 Magnetostriction of soft-magnetorheological elastomers
+January 2025 Micromechanics-based variational phase-field modeling of fatigue fracture
+January 2025 Homogenization of two-dimensional materials integrating monolayer bending and surface layer effects
+January 2025 The topological dynamics of continuum lattice grid structures
+January 2025 Thermodynamic potentials for viscoelastic composites
+January 2025 Time-dependent constitutive behaviors of a dynamically crosslinked glycerogel governed by bond kinetics and chain diffusion
+January 2025 Poroelastic fracture of polyacrylamide hydrogels: Enhanced crack tip swelling driven by chain scission
+January 2025 Latent-Energy-Based NNs: An interpretable Neural Network architecture for model-order reduction of nonlinear statics in solid mechanics
+January 2025 Corrigendum to “Predicting protein thermal stability changes upon single and multi-point mutations via restricted attention subgraph neural network”[ Journal of the Mechanics and Physics of Solids, 184, 105,531.]
